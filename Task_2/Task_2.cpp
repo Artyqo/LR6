@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstring>
 #include "Test_2/head_2.h"
 
 int main() {
